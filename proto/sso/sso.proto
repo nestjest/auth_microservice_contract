@@ -5,7 +5,7 @@ syntax = "proto3";
 package auth;
 
 // Настройки генерации кода Go
-option go_package = "tuzov.sso.v1;ssov1";
+option go_package = "github.com/nestjest/auth_microservice_contract/gen/go/sso;sso";
 
 // Auth is service for managin permissons and roles.
 service Auth {

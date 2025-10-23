@@ -8,7 +8,7 @@
 
 // Текущий пакет - указывает пространство имен для сервисов
 
-package ssov1
+package sso
 
 import (
 	context "context"
